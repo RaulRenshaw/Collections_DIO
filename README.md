@@ -28,44 +28,27 @@ Este repositório contém uma coleção de exercícios práticos utilizando **Ge
 - IDE de sua preferência (IntelliJ, Eclipse, VS Code, etc.)
 
 ### 📁 Estrutura do Projeto
+### 📁 Estrutura do Projeto
 
+```text
 src/
 ├── List/
-│ ├── CarrinhoCompras/
-│ │ ├── CarrinhoCompras.java
-│ │ ├── Item.java
-│ │ ├── Main.java
-│ ├── OperacoesBasicas/
-│ │ ├── ListaTarefas.java
-│ │ ├── Tarefa.java
-│ │ ├── Main.java
-│ └── Search/
-│ │ ├── Livros
-│ │ │ ├── CatalogoLivros.java
-│ │ │ ├── Livro.java
-│ │ │ ├── Main.java
-│ │ ├── SomaNumeros
-│ │ │ ├── Main.java
-│ │ │ ├── SomaNumeros.java
-
-src/
-├── List/
-│ ├── CarrinhoCompras/
-│ │ ├── CarrinhoCompras.java
-│ │ ├── Item.java
-│ │ └── Main.java
-│ ├── OperacoesBasicas/
-│ │ ├── ListaTarefas.java
-│ │ ├── Tarefa.java
-│ │ └── Main.java
-│ └── Search/
-│ │ ├── Livros/
-│ │ │ ├── CatalogoLivros.java
-│ │ │ ├── Livro.java
-│ │ │ └── Main.java
-│ │ └── SomaNumeros/
-│ │ │ ├── SomaNumeros.java
-│ │ │ └── Main.java
+│   ├── CarrinhoCompras/
+│   │   ├── CarrinhoCompras.java
+│   │   ├── Item.java
+│   │   └── Main.java
+│   ├── OperacoesBasicas/
+│   │   ├── ListaTarefas.java
+│   │   ├── Tarefa.java
+│   │   └── Main.java
+│   └── Search/
+│       ├── Livros/
+│       │   ├── CatalogoLivros.java
+│       │   ├── Livro.java
+│       │   └── Main.java
+│       └── SomaNumeros/
+│           ├── SomaNumeros.java
+│           └── Main.java
 
 
 ## ✅ Como Executar
